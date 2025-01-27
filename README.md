@@ -1,7 +1,7 @@
 # 🔐 **Security Control**  
 
 ### 📷 **ภาพประกอบ:**  
-![](link-to-your-image)  
+![](image/password.jpg)  
  
 
 ---
